@@ -1,0 +1,1 @@
+/home/hexu/projects/SrMnO3/fitdata/TB2J_results/Multibinit/mb.out_spinhist.nc

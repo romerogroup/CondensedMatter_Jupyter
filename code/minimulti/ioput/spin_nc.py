@@ -1,0 +1,1 @@
+from minimulti.ioput.base_parser import BaseSpinModelParser

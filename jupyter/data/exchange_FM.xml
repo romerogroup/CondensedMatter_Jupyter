@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<System_definition>
+	<unit_cell units="bohrradius">7.19983e+00	-0.00000e+00	-0.00000e+00	0.00000e+00	7.19983e+00	0.00000e+00	0.00000e+00	0.00000e+00	7.19983e+00</unit_cell>
+	<atom damping_factor="1.00000" gyroratio="1.76000e+11" index_spin="0" mass="8.76200e+01" massunits="atomicmassunit">
+		<position units="bohrradius">0.00000e+00	0.00000e+00	0.00000e+00</position>
+		<spinat>0.00000e+00	0.00000e+00	0.00000e+00</spinat>
+	</atom>
+	<atom damping_factor="1.00000" gyroratio="1.76000e+11" index_spin="1" mass="5.49380e+01" massunits="atomicmassunit">
+		<position units="bohrradius">3.59991e+00	3.59991e+00	3.59991e+00</position>
+		<spinat>0.00000e+00	0.00000e+00	2.98433e+00</spinat>
+	</atom>
+	<atom damping_factor="1.00000" gyroratio="1.76000e+11" index_spin="0" mass="1.59990e+01" massunits="atomicmassunit">
+		<position units="bohrradius">3.59991e+00	3.59991e+00	0.00000e+00</position>
+		<spinat>0.00000e+00	0.00000e+00	4.23803e-02</spinat>
+	</atom>
+	<atom damping_factor="1.00000" gyroratio="1.76000e+11" index_spin="0" mass="1.59990e+01" massunits="atomicmassunit">
+		<position units="bohrradius">0.00000e+00	3.59991e+00	3.59991e+00</position>
+		<spinat>0.00000e+00	0.00000e+00	4.22866e-02</spinat>
+	</atom>
+	<atom damping_factor="1.00000" gyroratio="1.76000e+11" index_spin="0" mass="1.59990e+01" massunits="atomicmassunit">
+		<position units="bohrradius">3.59991e+00	0.00000e+00	3.59991e+00</position>
+		<spinat>0.00000e+00	0.00000e+00	4.22866e-02</spinat>
+	</atom>
+	<spin_exchange_list units="eV">
+		<nterms>18</nterms>
+		<spin_exchange_term>
+			<ijR>1 1 -1 -1 0</ijR>
+			<data>1.06278e-03 	 1.06278e-03 	 1.06278e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 0 -1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 0 0</ijR>
+			<data>1.38357e-02 	 1.38357e-02 	 1.38357e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 0 1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 1 0</ijR>
+			<data>1.06278e-03 	 1.06278e-03 	 1.06278e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 -1 -1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 -1 0</ijR>
+			<data>1.38357e-02 	 1.38357e-02 	 1.38357e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 -1 1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 0 -1</ijR>
+			<data>1.36706e-02 	 1.36706e-02 	 1.36706e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 0 1</ijR>
+			<data>1.36706e-02 	 1.36706e-02 	 1.36706e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 1 -1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 1 0</ijR>
+			<data>1.38357e-02 	 1.38357e-02 	 1.38357e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 1 1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 -1 0</ijR>
+			<data>1.06278e-03 	 1.06278e-03 	 1.06278e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 0 -1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 0 0</ijR>
+			<data>1.38357e-02 	 1.38357e-02 	 1.38357e-02</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 0 1</ijR>
+			<data>1.10760e-03 	 1.10760e-03 	 1.10760e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 1 0</ijR>
+			<data>1.06278e-03 	 1.06278e-03 	 1.06278e-03</data>
+		</spin_exchange_term>
+	</spin_exchange_list>
+</System_definition>

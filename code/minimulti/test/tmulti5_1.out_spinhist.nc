@@ -1,0 +1,1 @@
+/home/hexu/projects/abitests/tutomultibinit_t5_1/tmulti5_1.out_spinhist.nc
