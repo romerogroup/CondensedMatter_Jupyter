@@ -1,1 +1,3 @@
 # CondensedMatter_Jupyter
+
+This development contains a series of Jupyter Notebooks focused on different topics in condensed matter Physics. The idea with these notebooks is to offer advance undergraduate and graduate students a series of tools to learn some of the topics introduced in materials science and condensed matter with a hands-on approach. The topics here selected are not by any means complete and they are not trying to substitute any book or lecture. Here our approach is to introduce the topics by example and help students to become familiar with the the topic by allowing them tu change the parameters and see the effect on the results.  
